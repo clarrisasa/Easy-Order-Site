@@ -1,0 +1,395 @@
+INSERT INTO `paradise` (`nama`, `ktp`, `hp`, `orang`) VALUES ('Clarrisa Fitria Ardianti', '21224456778344', '082245672281', '2');
+
+<center><h1> Katering Sehat Bersama JENNA CATERING </h1></center>
+<link rel="stylesheet" href="background.css">
+
+<html>
+    <head>
+        <title> JENNA CATERING </title>
+        <meta charset="utf-8">
+        <style type="text/css">
+            .login {
+                margin: 200px auto;
+                width: 300px;
+                padding: 10px;
+                border: 3px solid #fff;
+                background: transparant;
+                color: #fff;
+            }
+            input[type=text], input[type=password] {
+                margin: 5px auto;
+                width: 100%;
+                padding: 10px;
+            }
+            input[type=submit] {
+                margin: 5px auto;
+                float: right;
+                padding: 5px;
+                width: 90px;
+                border: 1px solid #fff;
+                color: #fff;
+                background: green; 
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="login">
+            <form action="" method="POST">
+                <h3>Silahkan Login Terlebih dahulu!</h3>
+                <td>Email</td>
+                <input type="text" name="email" placeholder="Masukkan Email Anda"><br>
+                <td>Password</td>
+                <input type="password" name="password" placeholder="Masukkan Password Anda"><br>
+                <input type="submit" name="login" value="Login"><br>
+            </form>
+        </div>
+    </body>
+</html>
+
+
+
+body
+{
+    background-image: url("cat2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: gray;
+}
+h1
+{
+    background-color: transparent;
+    font-size: 70px;
+    color: #ffffff; 
+    cursor: pointer;
+}
+
+
+
+
+
+<td colspan="2"><input ame="send" type="submit" class="bluebox" id="send" value="send message" onclick="return checkform();"></td>
+
+INSERT INTO `makan` (`nama`, `nmrmeja`, `hp`, `pesanan`) VALUES ('Clarrisa Fitria Ardianti', '2', '082245672281', '1. Salad MIX (1)\r\n2. Donut MIX\r\n3. Tiramisu Cake');
+
+INSERT INTO `minum` (`nama`, `nmrmeja`, `hp`, `pesan`) VALUES ('Clarrisa Fitria Ardianti', '2', '082245672281', 'es kopyor, tiramisu coklat');
+
+
+
+
+
+
+
+<!-- Bagian Wrapper 2 kolom -->
+    <div class="row">
+	 <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU ALONE</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="aln1.jpg" width="238px" height="200px"align="center">
+		<p>Donut MIX <br> Price List :Rp. 1/10.000 - Rp. 5/40.000</p>
+		<img src="aln2.jpg" width="238px" height="200px"align="center">
+		<p>French Fries mix Burger <br> Price List : Rp. 25.000</p>
+        <img src="aln3.jpg" width="238px" height="200px"align="center">
+		<p>Bluberry Cake <br> Price List : Rp. 25.000</p>
+		<img src="aln4.jpg" width="238px" height="200px"align="center">
+		<p>Croisant <br> Price List : Rp. 25.000</p>
+
+        </div>
+		  <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU SANDIWARA</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="sandiwara1.jpg" width="238px" height="220px"align="center">
+		<p>Salad MIX <br> Price List : Rp. 30.000</p>
+		<img src="sandiwara2.jpg" width="238px" height="220px"align="center">
+		<p>Sate + Nasi <br> Price List : Rp.30.000</p>
+        <img src="sandiwara3.jpg" width="238px" height="220px"align="center">
+		<p>Nasi Goreng <br> Price List : Rp. 20.000</p>
+		<img src="sandiwara4.jpg" width="238px" height="220px"align="center">
+		<p>Mie Goreng <br> Price List : Rp. 20.000</p>
+		 </aside>
+         </div>
+
+         <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU EXIS</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="exis1.jpg" width="238px" height="220px"align="center">
+		<p>Spageti <br> Price List : Rp.30.000</p>
+		<img src="exis2.jpg" width="238px" height="220px"align="center">
+		<p>Toppoki <br> Price List : Rp. 30.000(Free odeng)</p>
+        <img src="exis3.jpg" width="238px" height="220px"align="center">
+		<p>Nasi Padang Ayam Mercon <br> Price List : Rp. 30.000</p>
+		<img src="exis4.jpg" width="238px" height="220px"align="center">
+		<p>Bakso Kuah Mercon <br> Price List : Rp. 30.000/p>
+         </div>
+
+         <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU SWEET</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+        <img src="sweet1.jpg" width="238px" height="220px"align="center">
+		<p>Pisang Kiwi <br> Price List : Rp. 20.000</p>
+		<img src="sweet2.jpg" width="238px" height="220px"align="center">
+		<p>Cupcake <br> Price List : Rp. 10.000</p>
+        <img src="sweet3.jpg" width="238px" height="220px"align="center">
+		<p>Tiramisu Cake <br> Price List : Rp. 20.000</p>
+		<img src="sweet4.jpg" width="238px" height="220px"align="center">
+		<p>Strawberry Cake <br> Price List : Rp. 20.000</p>
+         </div>
+	<!-- End Bagian wrapper -->
+
+
+<!-- Bagian Wrapper 2 kolom -->
+    <div class="row">
+	 <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU SEGAR DINGIN</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="segar1.jpg" width="238px" height="200px"align="center">
+		<p>Ice Jeruk Nipis <br> Price List :Rp. 20.000</p>
+		<img src="segar2.jpg" width="238px" height="200px"align="center">
+		<p>Ice Marjan Merah <br> Price List : Rp. 15.000</p>
+        <img src="segar3.jpg" width="238px" height="200px"align="center">
+		<p>Ice Tiramisu <br> Price List : Rp. 20.000</p>
+		<img src="segar4.jpg" width="238px" height="200px"align="center">
+		<p>ice teh <br> Price List : Rp. 15.000</p>
+
+        </div>
+		  <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU HOT</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="hot1.jpg" width="238px" height="220px"align="center">
+		<p>Black Coffee <br> Price List : Rp. 15.000</p>
+		<img src="hot2.jpg" width="238px" height="220px"align="center">
+		<p>Character Coffee <br> Price List : Rp.25.000</p>
+        <img src="hot3.jpg" width="238px" height="220px"align="center">
+		<p>Arabica Coffee <br> Price List : Rp. 20.000</p>
+		<img src="hot4.jpg" width="238px" height="220px"align="center">
+		<p>Capuccino Coffee<br> Price List : Rp. 20.000</p>
+		 </aside>
+         </div>
+
+         <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU FRUIT</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+		<img src="f1.jpg" width="238px" height="220px"align="center">
+		<p>Lecy & Jeruk Nipis <br> Price List : Rp.15.000</p>
+		<img src="f2.jpg" width="238px" height="220px"align="center">
+		<p>Creamy Kiwi & Strawberry <br> Price List : Rp. 20.000</p>
+        <img src="f3.jpg" width="238px" height="220px"align="center">
+		<p>Frambos Strawberry <br> Price List : Rp. 20.000</p>
+		<img src="f4.jpg" width="238px" height="220px"align="center">
+		<p>Frambos Semangka <br> Price List : Rp.20.000
+         </div>
+
+         <div class="col-md-3 articeles" id="site-content">
+           <!-- isi content -->
+		   <nav class="menus">
+    <ul align="center">
+        <li><a href="#">MENU SPEKTA</a></li>
+    </ul>
+</nav>
+		<aside class="widgets">
+        <img src="spekta1.jpg" width="238px" height="220px"align="center">
+		<p>Ice Cream Large <br> Price List : Rp. 30.000</p>
+		<img src="spekta2.jpg" width="238px" height="220px"align="center">
+		<p>Mixed Bery <br> Price List : Rp. 20.000</p>
+        <img src="spekta3.jpg" width="238px" height="220px"align="center">
+		<p>Lemon, Alpukat, Timun <br> Price List : Rp. 50.000</p>
+		<img src="spekta4.jpg" width="238px" height="220px"align="center">
+		<p>Ice Cream Small <br> Price List : Rp. 20.000</p>
+         </div>
+	<!-- End Bagian wrapper -->
+
+
+
+
+		<center><h3>DATA PELANGGAN PARADISE CAFE</h3></center><br>
+<h4>DAFTAR PELANGGAN BOOKING TEMPAT<h4>
+<table width="100%" border="1">
+    <th> NAMA </th>
+    <th> KTP </th>
+    <th> HP </th>
+    <th> ORANG </th>
+    <th> DELETE </th>
+    <th> EDIT </th>
+<?php
+    include "koneksimakan_proyek.php";
+    $data = mysqli_query($cek, "select * FROM `paradise` ");
+    while ($d=mysqli_fetch_object($data))
+        echo "<tr>
+        <th> $d->nama </th>
+        <th> $d->ktp </th>
+        <th> $d->hp </th>
+        <th> $d->orang </th>
+        <th> <a href=\"delete_proyek.php? orang=$d->orang\">DELETE</a></th>
+        <th> <a href=\"update_proyek.php? orang=$d->orang\">EDIT<a></th>
+    </tr>"; 
+?>
+</table>
+<br>
+
+<h4>DAFTAR PESANAN MAKANAN<h4>
+<table width="100%" border="1">
+    <th> NAMA </th>
+    <th> NOMOR MEJA </th>
+    <th> HP </th>
+    <th> PESANAN </th>
+    <th> DELETE </th>
+    <th> EDIT </th>
+<?php
+    include "koneksimakan_proyek.php";
+    $data = mysqli_query($cek, "select * FROM `makan` ");
+    while ($d=mysqli_fetch_object($data))
+        echo "<tr>
+        <th> $d->nama </th>
+        <th> $d->nmrmeja </th>
+        <th> $d->hp </th>
+        <th> $d->pesanan </th>
+        <th> <a href=\"deletemakan_proyek.php? nmrmeja=$d->nmrmeja\">DELETE</a></th>
+        <th> <a href=\"updatemakan_proyek.php? nmrmeja=$d->nmrmeja\">EDIT<a></th>
+    </tr>"; 
+?>
+</table>
+<br>
+
+<h4>DAFTAR PESANAN MINUMAN<h4>
+<table width="100%" border="1">
+    <th> NAMA </th>
+    <th> NOMOR MEJA </th>
+    <th> HP </th>
+    <th> PESANAN </th>
+    <th> DELETE </th>
+    <th> EDIT </th>
+<?php
+    include "koneksimakan_proyek.php";
+    $data = mysqli_query($cek, "select * FROM `minum` ");
+    while ($d=mysqli_fetch_object($data))
+        echo "<tr>
+        <th> $d->nama </th>
+        <th> $d->nmrmeja </th>
+        <th> $d->hp </th>
+        <th> $d->pesan </th>
+        <th> <a href=\"deleteminum_proyek.php? nmrmeja=$d->nmrmeja\">DELETE</a></th>
+        <th> <a href=\"updateminum_proyek.php? nmrmeja=$d->nmrmeja\">EDIT<a></th>
+    </tr>"; 
+?>
+</table>
+
+
+<?php
+if (isset($_POST['cari'])){
+    echo "pencarian : $_POST[cari] <br>";
+    include "koneksimakan_proyek.php";
+
+    $data = mysqli_query($cek,"select * FROM paradise where nama LIKE '%$_POST[cari]%' OR orang LIKE '%$_POST[cari]%'");
+    while ($d=mysqli_fetch_object($data)){
+        echo "Data Pelanggan : $d->nama $d->ktp $d->hp $d->orang";
+        echo "<br><a href=\"delete_proyek.php? orang=$d->orang\">DELETE</a>
+        <a href=\"update_proyek.php? orang=$d->orang\">EDIT<a>";
+    }
+    $data = mysqli_query($cek,"select * FROM makan where nama LIKE '%$_POST[cari]%' OR nmrmeja LIKE '%$_POST[cari]%'");
+    while ($d=mysqli_fetch_object($data)){
+        echo "<br>Pesanan Makanan : $d->nama $d->nmrmeja $d->hp $d->pesanan <br>";
+        echo "<a href=\"deletemakan_proyek.php? nmrmeja=$d->nmrmeja\">DELETE</a>
+        <a href=\"updatemakan_proyek.php? nmrmeja=$d->nmrmeja\">EDIT<a>";
+    }
+    $data = mysqli_query($cek,"select * FROM minum where nama LIKE '%$_POST[cari]%' OR nmrmeja LIKE '%$_POST[cari]%'");
+    while ($d=mysqli_fetch_object($data)){
+    echo "<br>Pesanan Minuman : $d->nama $d->nmrmeja $d->hp $d->pesan <br>";
+    echo "<a href=\"deleteminum_proyek.php? nmrmeja=$d->nmrmeja\">DELETE</a>
+    <a href=\"updateminum_proyek.php? nmrmeja=$d->nmrmeja\">EDIT<a>";
+    }
+}
+?>
+
+
+
+<!-- Bagian Wrapper 2 kolom -->
+    <div class="row">
+	 <div class="col-md-12 articeles" id="site-content">
+           <!-- isi content -->
+		<aside class="widgets">
+		<p> </p>
+		<center><h3>CARA BOOKING TEMPAT DI PARADISE CAFE</h3></center><br>
+        <h4>1. Buka www.paradisecafe.com</h4><br>
+        <h4>2. Klik menu login yang ada dilayar dan isikan data diri anda sesuai perintah</h4><br>
+        <h4>3. Jika sudah jangan lupa scroll ke bawah. dan jika berhasil BOOKING
+            maka akan muncul tulisan "Booked Complate. Silahkan datang ke Paradise 
+            Cafe dan tunjukkan hasil booked anda serta untuk mengambil nomer pesanan"</h4><br>
+        <h4>4. Klik "HOME" untuk kembali ke laman awal</h4><br>
+        <h4>5. Mulai lakukan Pemesanan menu makanan dan minuman di lamannya masing masing.</h4><br>
+        <h4>6. Jika sudah melakukan pemesanan silahkan bayar di tempat pembayaran "mohon maaf 
+            kami hanya menyediakan pembayaran secara debit" </h4><br>
+        <h4>7. Jika ingin mengecek pemesanan yang sudah dilakukan klik "data pelanggan" disana
+            kalian bisa melakukan pembatalan booking, edit pemesanan makanan dan minuman sebelum dilakukan
+            pembayaran</h4><br>
+        <h4>8. Selamat berkunjung di Paradise Caffe</h4><br>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="cafe2.jpg" width="230px" height="150px"align="center"> &nbsp; &nbsp; &nbsp;
+        <img src="cafegood.jpg" width="230px" height="150px"align="center"> &nbsp; &nbsp; &nbsp;
+        <img src="cafe.jpg" width="230px" height="150px"align="center"> &nbsp; &nbsp; &nbsp;
+        <img src="cafee.jpg" width="230px" height="150px"align="center"> &nbsp; &nbsp; &nbsp;
+
+
+
+
+
+
+
+
+CATATAN CSS
+1. body -> background color untuk halaman latar belakang
+2. meta-post ->
+3. header -> background color warna coklat, terdapat padding yang mengatur blok coklat itu supaya di tengah
+4. nav.menus -> blok coklat gelap yang digunakan dibelakang nama login makanan minuman data pelanggan galeri dll
+5. nav.menus.ul -> tidak berpengaruh apa apa karena padding dan margin 0
+6. nav.menus ul li -> mengarahkan nama login makan minuman data pelanggan masuk ke dalam blok coklat gelap inline block
+7. nav menus ul li a ->mempercantik tampilan yang ada dalam blok coklat
+8. nav.menus ul li a:hover, nav.menus ul li a:focus -> tidak ada pengaruh
+9. article.posts -> tidak ada pengaruh
+10. aside.widgets -> block coklat muda bawah kanan akan hilang jika bagian ini tidak ada aside widgets yang digunakan sebagai isi data
+11. aside.widgets ul -> tidk ada pengaruh karena padding dan margin 0
+12. aside.widgets li -> semua keadaan di 0 kan
+13. .widget-title -> tidak ada pengaruh
+14. footer.copyright -> ada dibagian bawah sendiri tapi tidak ku beri
+15. h3 -> mempercantik tampilan h3
+16. h4 -> mempercantik tampilan h4
+bootstrap adalah pustaka css di mana beberapa gaya umum sudah ditentukan sebelumnya
+Anda dapat membuat tata letak yang responsif dengan mudah dan beberapa desain umum menggunakan Bootstrap. 
+Tujuan dan fungsi Bootstrap adalah untuk membuat website responsive dan mobile-first.
+jquery memberi Anda kemudahan untuk memanipulasi halaman web dan memiliki banyak fungsi pembantu seperti membuat panggilan ajax lebih mudah.
+Slogan jquery adalah menulis lebih sedikit, lakukan lebih banyak.
